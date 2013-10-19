@@ -1,0 +1,78 @@
+#######################################################################################################################################
+<poster>BigBallzBaby</poster>
+<fanart>http://s20.postimg.org/8p05qjvh9/TNPB_bad.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR red]Ive categorised movies to make it easier to find a film to suit your mood... ENJOY![/COLOR]</message>
+<thumbnail>http://s20.postimg.org/jvq2l8xel/TNPB.png</thumbnail>
+</info>
+#######################################################################################################################################
+
+<dir>
+<name>[COLOR lime]All Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/All%20Movies.xml</link>
+<thumbnail>http://s20.postimg.org/wkkd4x3j1/all_movies.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Action & Thriller Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/Action%26Thriller.xml</link>
+<thumbnail>http://s20.postimg.org/de761qn19/action_thriller.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Comedy Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/ComedyMovies.xml</link>
+<thumbnail>http://s20.postimg.org/trr5kw36l/comedy.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Drama & Romance Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/Drama%26Romance.xml</link>
+<thumbnail>http://s20.postimg.org/o4ze15q1p/drama_romance.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Family Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/FamilyMovies.xml</link>
+<thumbnail>http://s20.postimg.org/kzesay7fh/family.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Sci-Fi & Horror Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/Scifi%26Horror.xml</link>
+<thumbnail>http://s20.postimg.org/web9fkjrx/scifi_horror.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]War & Western Movies[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/War%26Westerns.xml</link>
+<thumbnail>http://s20.postimg.org/e00qbl7h9/war_western.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR lime]Latest Cinema Releases[/COLOR]</name>
+<link>https://github.com/xbmctalk/MashUpTNPB/raw/master/Genre/LatestCinema.xml</link>
+<thumbnail>http://s20.postimg.org/qov0v9dlp/latest_cinema_releases.png</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+</dir>
+
+
+##############################################################################################################################################################
+<info>
+<message>[COLOR aqua]Follow Me On Twitter @ BigBallzBaby[/COLOR] [COLORblue]This is a work in progress would appreciate feedback... ENJOY![/COLOR]</message>
+<thumbnail>http://img826.imageshack.us/img826/346/m3u.png</thumbnail>
+</info>
+##############################################################################################################################################################
+
